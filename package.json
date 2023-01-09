@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KhineThwe/Boostrap_Training/issues"
   },
-  "homepage": "https://github.com/KhineThwe/Boostrap_Training#readme"
+  "homepage": "https://github.com/KhineThwe/Boostrap_Training#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
